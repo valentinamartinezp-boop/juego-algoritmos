@@ -1,0 +1,4 @@
+print("=================================")
+print("  ¡BIENVENIDO A SQUISHYFLY!      ")
+print("=================================")
+print("Cargando el juego de algoritmos...")
