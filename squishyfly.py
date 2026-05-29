@@ -1,5 +1,5 @@
-print("=================================")
+print(" hola hola hola")
 print("  ¡BIENVENIDO A SQUISHYFLY!      ")
-print("=================================")
+print("hola hola hola hola")
 print("Cargando el juego de algoritmos...")
 print("Hola mundo")
